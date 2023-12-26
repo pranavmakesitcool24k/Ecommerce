@@ -1,12 +1,9 @@
 <p align="center">
   <p align="center">
     <a href="https://justdjango.com/?utm_source=github&utm_medium=logo" target="_blank">
-     
-    </a>
+
   </p>
-  <p align="center">
-    The Definitive Django Learning Platform.
-  </p>
+  
 </p>
 
 
@@ -16,11 +13,6 @@
 
 This is a very simple e-commerce website built with Django.
 
-## Quick demo
-
-[![alt text](https://justdjango.s3-us-west-2.amazonaws.com/media/gifs/djecommerce.gif "Logo")](https://youtu.be/z4USlooVXG0)
-
----
 
 ## Project Summary
 
@@ -66,15 +58,6 @@ python manage.py runserver
 
 ---
 
-## Follow the tutorial
-
-This project is part of a [series on YouTube](https://youtu.be/z4USlooVXG0) that teaches how to build an e-commerce website with Django.
-
----
-
-## Support
-
-If you'd like to support this project and all the other open source work on this organization, you can use the following options
 
 ### Option 1: GitHub Sponsors
 
